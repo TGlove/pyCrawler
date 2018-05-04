@@ -24,3 +24,4 @@ class Outputer():
         fout.write('</table>')
         fout.write('</body>')
         fout.write('</html>')
+        print('output finished!!')
